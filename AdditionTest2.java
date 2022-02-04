@@ -8,6 +8,6 @@ public class AdditionTest2 {
 		int a = 5;
         int b = 10;
 
-        assertEquals("Should return 15", 12, Addition2.sum(5, 10));
+        assertEquals("Should return 15", 15, Addition2.sum(5, 10));
 	}
 }
